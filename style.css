@@ -1,0 +1,25 @@
+body {
+  font-family: "Quicksand", sans-serif;
+  background-color: #fefefe;
+}
+.myNavItems {
+  font-size: 14px;
+  border-bottom: 0;
+}
+/*position-absolute top-50 start-50 translate-middle*/
+.hiThereDiv {
+  position: absolute;
+  top: 10%;
+  left: 5%;
+  width: 100%;
+}
+button {
+  background-color: #f0214d !important;
+  border-radius: 0 !important;
+  width: 150px;
+  color: white !important;
+  font-size: small !important;
+}
+h1 {
+  font-size: 50px;
+}
